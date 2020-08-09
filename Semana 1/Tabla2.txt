@@ -1,0 +1,6 @@
+id_usuario,Nombre_usuario
+1,Pepe
+2,Bryan
+3,Paola
+4,Miriam
+5,Carlos
